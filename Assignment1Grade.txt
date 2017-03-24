@@ -1,0 +1,21 @@
+
+
+Two layouts	                                                                                                25/25
+
+
+Click Button works both layouts	                                                25/25
+
+
+Correct values for counts displayed when rotate device	25/25
+
+
+Non numeric text in string resource	                                                15/15
+
+
+Coding style	                                                                                                10/10
+
+
+
+
+Total	                                                                                                                        100/100
+
